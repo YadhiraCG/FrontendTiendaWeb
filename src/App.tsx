@@ -1,4 +1,4 @@
-import LandingPage from './pages/landingPage';
+import {LandingPage} from './pages/landingPage';
 import Carrito from './pages/carrito';
 import Perfil from './pages/perfil';
 import Products from './pages/products';

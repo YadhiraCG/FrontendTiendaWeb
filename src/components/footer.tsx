@@ -6,9 +6,9 @@ const Footer = () => {
 
                 <div className="flex-shrink-0 relative -left-13">
                     <img
-                        src="/Logo(3)1.png"
+                        src="/logos/logo1.png"
                         className="w-auto h-15 sm:h-30 rounded-md"
-                        alt="Logo Destinos"
+                        alt="Logo"
                     />
                 </div>
 
